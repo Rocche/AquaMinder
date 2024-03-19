@@ -3,7 +3,8 @@
 > Stay wet, stay wild, with AquaMinder by your side!
 
 AquaMinder is a simple yet powerful notification system that reminds you
-to drink your big chonky glass of water at regular intervals!
+to drink your big chonky glass of water at regular intervals! 
+Right now the interval is set at 15 minutes, the plan is to make it customizable (PRs are very welcome).
 
 (definitely not a logo made with Paint BTW)
 

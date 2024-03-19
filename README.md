@@ -10,8 +10,10 @@ to drink your big chonky glass of water at regular intervals!
 The program requires **Go 1.21.1** to be built. Clone the repository, head to the *AquaMinder* folder and build with the following:
 
 ```
-make build
+make build os=[your target OS]
 ```
+
+The OS value can be *windows*, *linux* and *darwing* (MacOS).
 
 ## Screenshots
 

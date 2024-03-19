@@ -5,6 +5,22 @@
 AquaMinder is a simple yet powerful notification system that reminds you
 to drink your big chonky glass of water at regular intervals!
 
+## Build
+
+The program requires **Go 1.21.1** to be built. Clone the repository, head to the *AquaMinder* folder and build with the following:
+
+```
+make build
+```
+
+## Screenshots
+
+![image](https://github.com/Rocche/AquaMinder/assets/37312278/59c4502f-e5a1-45e7-aa17-0dcf4caa0945)
+
+![image](https://github.com/Rocche/AquaMinder/assets/37312278/5b7d5f5c-ce5a-4cce-b50f-d83bcca59e2b)
+
+
+
 ## Testimonials
 
 > I was a nerd with the mood under the weather 24/7, but AquaMinder was a game changer!

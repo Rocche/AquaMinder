@@ -14,6 +14,7 @@ make build os=[your target OS]
 ```
 
 The OS value can be *windows*, *linux* and *darwing* (MacOS).
+The ready to run executable will be produced!
 
 ## Screenshots
 

@@ -1,4 +1,4 @@
-# AquaMinder
+![aquaminder](https://github.com/Rocche/AquaMinder/assets/37312278/7a11d9d0-aff7-4ba7-b707-d72f850c0c0f)
 
 > Stay wet, stay wild, with AquaMinder by your side!
 

@@ -24,7 +24,7 @@ func WelcomeMessage() string {
 		Background(lipgloss.Color("33"))
 	b.WriteString("Welcome to ")
 	b.WriteString(style.Render("AquaMinder"))
-	b.WriteString(" and congratulations for beginning your quest of staying hydrated!")
+	b.WriteString(" and congratulations for beginning your quest of staying hydrated!\n\n")
 	return b.String()
 }
 

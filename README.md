@@ -1,4 +1,4 @@
-![aquaminder](https://github.com/Rocche/AquaMinder/assets/37312278/7a11d9d0-aff7-4ba7-b707-d72f850c0c0f)
+![aquaminder2](https://github.com/Rocche/AquaMinder/assets/37312278/a0bf839e-5494-4a57-b5aa-3ce9e1b7476f)
 
 > Stay wet, stay wild, with AquaMinder by your side!
 
@@ -24,8 +24,7 @@ The OS value can be *windows*, *linux* and *darwing* (MacOS).
 The ready to run executable will be produced!
 
 ## Screenshots
-
-![image](https://github.com/Rocche/AquaMinder/assets/37312278/59c4502f-e5a1-45e7-aa17-0dcf4caa0945)
+![image](https://github.com/Rocche/AquaMinder/assets/37312278/ed9f1eba-2bc5-4a8b-b926-c6b45cd8388b)
 
 ![image](https://github.com/Rocche/AquaMinder/assets/37312278/5b7d5f5c-ce5a-4cce-b50f-d83bcca59e2b)
 

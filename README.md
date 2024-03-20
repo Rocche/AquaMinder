@@ -8,6 +8,10 @@ Right now the interval is set at 15 minutes, the plan is to make it customizable
 
 (definitely not a logo made with Paint BTW)
 
+## Install
+
+Check out the **releases** section. You can download the source code and the executables fow Windows, Linux and MacOS (64 bit).
+
 ## Build
 
 The program requires **Go 1.21.1** to be built. Clone the repository, head to the *AquaMinder* folder and build with the following:

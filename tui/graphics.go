@@ -24,12 +24,12 @@ func WelcomeMessage() string {
 		Background(lipgloss.Color("33"))
 	b.WriteString("Welcome to ")
 	b.WriteString(style.Render("AquaMinder"))
-	b.WriteString(" and congratulations for beginning your quest of staying hydrated!\n\n")
+	b.WriteString(" and congratulations for beginning your quest of staying hydrated!")
 	return b.String()
 }
 
 // ExitInstructions returns the phrase telling how to exit the program
 func ExitInstructions() string {
 	style := lipgloss.NewStyle().Foreground(lipgloss.Color("244"))
-	return style.Render("(You can quit the program in any moment by pressing 'q', 'ESC' or 'CTRL+c')")
+	return style.Render("\n\n(You can quit the program in any moment by pressing 'q', 'ESC' or 'CTRL+c')")
 }

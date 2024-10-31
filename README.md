@@ -20,7 +20,7 @@ The program requires **Go 1.21.1** to be built. Clone the repository, head to th
 make build os=[your target OS]
 ```
 
-The OS value can be *windows*, *linux* and *darwing* (MacOS).
+The OS value can be *windows*, *linux* and *darwin* (MacOS).
 The ready to run executable will be produced!
 
 ## Screenshots
